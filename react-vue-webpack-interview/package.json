@@ -1,0 +1,15 @@
+{
+  "name": "react-vue-webpack-interview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "start",
+    "2020-05-24"
+  ],
+  "author": "chen",
+  "license": "ISC"
+}
